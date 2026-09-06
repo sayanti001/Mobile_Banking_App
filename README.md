@@ -1,4 +1,4 @@
-# SEYLAN Mobile Banking App
+# Mobile Banking App
 [App Store](https://apps.apple.com/lk/app/seylan-mobile-banking-app/id1061045338) | [Play Store](https://play.google.com/store/apps/details?id=com.fg.seylan&hl=en&gl=US)
 
 **UI/UX Dev Team:**
